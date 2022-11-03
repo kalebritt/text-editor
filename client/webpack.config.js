@@ -51,7 +51,15 @@ module.exports = () => {
 
     module: {
       //css loaders
-      rules: [],
+      rules: [
+        {
+          test: /\.css$/,
+          use: ["style-loader", "css-loader"],
+        },
+        {
+          
+        },
+      ],
     },
   };
 };
