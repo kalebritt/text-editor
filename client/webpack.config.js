@@ -17,11 +17,13 @@ module.exports = () => {
       filename: '[name].bundle.js',
       path: path.resolve(__dirname, 'dist'),
     },
+    //put them plugins here
     plugins: [
       
     ],
 
     module: {
+      //css loaders
       rules: [
         
       ],
