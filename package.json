@@ -1,7 +1,7 @@
 {
-  "name": "JATE",
+  "name": "jate",
   "version": "1.0.0",
-  "description": "",
+  "description": "- [Description](#description)\r   - [User Story](#user-story)\r   - [Future Enhancements](#future-enhancements)\r   - [Website Preview](#website-preview)\r   - [Technologies](#technologies)\r   - [Collaborators](#collaborators)\r   - [Resources](#resources)\r   - [License](#license)",
   "main": "server.js",
   "scripts": {
     "start:dev": "",
@@ -12,7 +12,7 @@
     "client": ""
   },
   "keywords": [],
-  "author": "",
+  "author": "k",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
@@ -22,5 +22,13 @@
   "devDependencies": {
     "concurrently": "^5.2.0",
     "nodemon": "^2.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalebritt/text-editor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kalebritt/text-editor/issues"
+  },
+  "homepage": "https://github.com/kalebritt/text-editor#readme"
 }
