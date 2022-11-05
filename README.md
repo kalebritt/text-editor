@@ -21,11 +21,11 @@ Just Another Text Editor (JATE) is an app that can function with or without an i
 
 # User Story:feelsgood:
 
- 
+ I am bloody sick of my entire arsenal of technology being rendered useless whenever my bloody internet decides it's tired.  I want to make notes with or without the internet and I want it to be saved for later perusal.
 
 # Website Preview:movie_camera:
 -Screenshot!:arrow_down:<br>
-![Screenshot of Login Page]()<br>
+![Screenshot of Login Page](/assets/jate-screenshot.png)<br>
 
 
 # Technologies:computer:
