@@ -1,5 +1,4 @@
-# text-editor
-## [Just Another Text Editor:rocket:](heroku-link-here)
+## [Just Another Text Editor:rocket:]([heroku-link-here](https://radiant-peak-69775.herokuapp.com/))
 
 
 # Index:card_index:
@@ -17,7 +16,7 @@
 # Description:book:
 
 ```
-friends for friends!
+Just Another Text Editor (JATE) is an app that can function with or without an internet connection.  So go on and take some notes.  We'll remember it for you.
 ```
 
 # User Story:feelsgood:
