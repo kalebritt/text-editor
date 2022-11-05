@@ -1,4 +1,4 @@
-## [Just Another Text Editor:rocket:]([heroku-link-here](https://radiant-peak-69775.herokuapp.com/))
+## [Just Another Text Editor:rocket:]([heroku-link-here](https://radiant-peak-69775.herokuapp.com/)
 
 
 # Index:card_index:
